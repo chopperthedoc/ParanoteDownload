@@ -3,12 +3,12 @@
     <channel>
         <title>Paranote</title>
         <item>
-            <title>1.7</title>
-            <pubDate>Mon, 12 Feb 2024 15:02:42 +0100</pubDate>
-            <sparkle:version>1.7</sparkle:version>
-            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <title>1.0</title>
+            <pubDate>Mon, 11 Mar 2024 16:37:01 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chopperthedoc/ParanoteUpdateTest/releases/download/prod/ParanoteV1.7.dmg" length="28106109" type="application/octet-stream" sparkle:edSignature="hQlVahsiIFgGjC0IVN+i2OUwGPKWHB+DmhfIkrzlDmf7GTb8VX8+bGM4YivJUZYumjtZiFQ0FtUKGw57Ae2LDg=="/>
+            <enclosure url="https://github.com/chopperthedoc/ParanoteDownload/releases/download/prod/Paranote.dmg" length="27823037" type="application/octet-stream" sparkle:edSignature="24tKSEpnhCuG9OZYQGIm5kjl6Jg7ZZF6Yig7BN+Tn6bVfWkdAmhcotZj9T1x8BXPif2T7XW+fuwopUEEJlACBQ=="/>
         </item>
     </channel>
 </rss>
