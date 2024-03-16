@@ -4,11 +4,11 @@
         <title>Paranote</title>
         <item>
             <title>1.0</title>
-            <pubDate>Mon, 11 Mar 2024 18:00:27 +0100</pubDate>
+            <pubDate>Sat, 16 Mar 2024 14:05:48 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/chopperthedoc/ParanoteDownload/releases/download/prod/Paranote.dmg" length="27822932" type="application/octet-stream" sparkle:edSignature="BvrpxgQM4jfFMDq1bbXP3bjaJRqqOl9b9bGSEn1tSfbQt3pFfmGWuFzRLyqo977IQ9XA4dA1HLO9Bn0Ej66oDQ=="/>
+            <enclosure url="https://github.com/chopperthedoc/ParanoteDownload/releases/download/prod/Paranote.dmg" length="27823231" type="application/octet-stream" sparkle:edSignature="X8NkLhq4A/BpJIwYVy/17i1G/UlpNZRFpKrPl9kwXYV843DLsqBYTt5FBfuehBSaFOT6UJlvoNUBaqcg47D0CA=="/>
         </item>
     </channel>
 </rss>
